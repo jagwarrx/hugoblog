@@ -1,0 +1,4 @@
+[submodule "jagwarrx.github.io"]
+	path = jagwarrx.github.io
+	url = git@github.com:jagwarrx/jagwarrx.github.io.git
+	branch = master
