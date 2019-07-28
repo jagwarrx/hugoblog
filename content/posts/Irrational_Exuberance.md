@@ -10,7 +10,7 @@ description = ""
 
 Artificial Intelligence has disrupted industries like finance, e-commerce, advertising, and is poised to disrupt many more. While I'm wholly excited about the possibilities of deploying A.I. in your organization, it's important to establish the context for our discussion. And for that, we need to get off the hype train, and approach the subject rationally.
 
-*A.I. solutionism* is a philosophy that given enough data, Machine Learning algorithms can solve all of our problems. It is prevalent in the business and research community, as evident by thousands of "A.I. startups" created everyday. The last batch of Y-Combinator's online program had  This exuberance has spread over to the media and general public. It has creatde fear and angst: everything from machines taking over everyone's jobs to doomsday scenarios. However, this does not reflect the real-world complexity of deploying machine learning systems, and sets unrealistic expectations of what A.I. can achieve, at least in the coming decade.
+*A.I. solutionism* is a philosophy that given enough data, Machine Learning algorithms can solve all of our problems. It is prevalent in the business and research community, as evident by thousands of "A.I. startups" created everyday. This exuberance has spread over to the media and general public. It has creatde fear and angst: everything from machines taking over everyone's jobs to doomsday scenarios. However, this does not reflect the real-world complexity of deploying machine learning systems, and sets unrealistic expectations of what A.I. can achieve, at least in the coming decade.
 
 There are limits to what A.I can do. Here's where solutionism mindset fails to account for: 
 
