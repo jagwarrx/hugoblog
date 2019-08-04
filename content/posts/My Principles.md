@@ -1,4 +1,4 @@
-+++ title = "My Priciples" date = 2019-08-04T19:42:20-08:00 tags = [] featured_image = "" description = "" +++
++++ title = "My Principles" date = 2019-08-04T19:42:20-08:00 tags = [] featured_image = "" description = "" +++
 
 ## Volition
 
