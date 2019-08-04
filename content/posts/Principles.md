@@ -1,6 +1,6 @@
 +++
 title =  "Principles"
-date = {{ .PublishDate.Format "August 4, 2019" }}
+date = 2019-08-04T08:52:00-07:00
 tags = []
 featured_image = ""
 description = ""
