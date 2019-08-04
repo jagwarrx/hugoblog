@@ -12,7 +12,7 @@ I believe that **all success stems from self-belief**. I have intense self-belie
 
 I believe that people have an **enormous capacity to make things happen**. Human potential is essentially infinite. I expect great things from myself and the people around me.
 
-I am **deliberate** in the things I do. I prioritize my tasks for effectiveness, and every action I take has reasoning behind it. Not making a decision is a decision.
+I am **deliberate** in the things I do. I prioritize my tasks for effectiveness, and every action I take has reasoning behind it. Not taking a decision is a decision which I take in circumstances where I need more data.
 
 ## Iterative Development
 
